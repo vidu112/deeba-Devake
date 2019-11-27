@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Deeba Driver</string>
+    <string name="google_maps_key1">AIzaSyAGFIvdRAqQs_gmmlAuMOdXGVAka_O5DOc</string>
+    <string name="checked">Deeba.com.checked</string>
+    <string name="plate1">Deeba.com.plate1</string>
+    <string name="plate2">Deeba.com.plate2</string>
+    <string name="plate3">Deeba.com.plate3</string>
+    <string name="vehicalId">Deeba.com.vehicalId</string>
+    <string name="vehicalIds">Deeba.com.vehicalIds</string>
+    <string name="currentdriverId">Deeba.com.currentdriverId</string>
+    <string name="currentdriverFname">Deeba.com.currentdriverFname</string>
+    <string name="companyId">Deeba.com.companyId</string>
+    <string name="taskids">Deeba.com.taskids</string>
+    <string name="currentdriverLname">Deeba.com.currentdriverLname</string>
+    <string name="taskPre">Deeba.com.taskPre</string>
+    <string name="totalIdle">Deeba.com.totalIdle</string>
+    <string name="startTime">Deeba.com.startTime</string>
+    <string name="navName">Deeba.com.navName</string>
+    <string name="navLat">Deeba.com.navLat</string>
+    <string name="navLon">Deeba.com.navLon</string>
+    <string name="ending">Deeba.com.ending</string>
+    <string name="vehicalType">Deeba.com.vehicalType</string>
+    <string name="deleteonlineuser">Deeba.com.deleteonlineuser</string>
+    <string name="stop_location_updates">Deeba.com.stop_location_updates</string>
+    <string name="google_maps_api_key">AIzaSyAGFIvdRAqQs_gmmlAuMOdXGVAka_O5DOc</string>
+
+</resources>

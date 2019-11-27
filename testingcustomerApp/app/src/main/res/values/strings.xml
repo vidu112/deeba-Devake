@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">testingcustomerApp</string>
+    <string name="deeba_logo">Deeba Logo</string>
+    <string name="continu">Continue</string>
+    <string name="phonenumber"> com.example.testingcustomerapp.phonenumber</string>
+    <string name="password"> com.example.testingcustomerapp.password</string>
+    <string name="google_maps_api_key">AIzaSyAGFIvdRAqQs_gmmlAuMOdXGVAka_O5DOc</string>
+</resources>

@@ -1,0 +1,209 @@
+{
+  "project_info": {
+    "project_number": "519538573283",
+    "firebase_url": "https://deeba-c4d2b.firebaseio.com",
+    "project_id": "deeba-c4d2b",
+    "storage_bucket": "deeba-c4d2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519538573283:android:fff1697eb78415ce",
+        "android_client_info": {
+          "package_name": "Deeba.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519538573283-cu15f1u81vb4sv0hn07dtmh8d7fldjuu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Deeba.com",
+            "certificate_hash": "101be02238c5ab0dcb07a8538960131bbd311301"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG94q1L7641EOKMp1hXm_3TYG9SyLNE4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519538573283-f8frhest0a0ak9f0a6glsdnu3cc8g59p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519538573283:android:a1d1ce9b8c3681aa",
+        "android_client_info": {
+          "package_name": "com.codingwithmitch.googlemaps2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519538573283-gmr6d4hed4j91oegq8ihhebs9o42vgmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingwithmitch.googlemaps2018",
+            "certificate_hash": "101be02238c5ab0dcb07a8538960131bbd311301"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG94q1L7641EOKMp1hXm_3TYG9SyLNE4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519538573283-f8frhest0a0ak9f0a6glsdnu3cc8g59p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519538573283:android:8efa472def46d586",
+        "android_client_info": {
+          "package_name": "com.deeba.deebadriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519538573283-tf5d14r4ku6k4ipjhgsul05dd8cvn396.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deeba.deebadriver",
+            "certificate_hash": "101be02238c5ab0dcb07a8538960131bbd311301"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG94q1L7641EOKMp1hXm_3TYG9SyLNE4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519538573283-f8frhest0a0ak9f0a6glsdnu3cc8g59p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519538573283:android:2bea67ad5604d5f2",
+        "android_client_info": {
+          "package_name": "com.example.driverapptesting1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519538573283-hg3l2qlppsq0j4as5ds7d6sv6te3ho2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.driverapptesting1",
+            "certificate_hash": "101be02238c5ab0dcb07a8538960131bbd311301"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG94q1L7641EOKMp1hXm_3TYG9SyLNE4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519538573283-f8frhest0a0ak9f0a6glsdnu3cc8g59p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519538573283:android:b84895c764646805",
+        "android_client_info": {
+          "package_name": "com.example.notificationservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519538573283-ch52f0ivn4lj35p130iia9qes0f8odm7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notificationservices",
+            "certificate_hash": "101be02238c5ab0dcb07a8538960131bbd311301"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG94q1L7641EOKMp1hXm_3TYG9SyLNE4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519538573283-f8frhest0a0ak9f0a6glsdnu3cc8g59p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519538573283:android:cdeb9ac25340c1d5",
+        "android_client_info": {
+          "package_name": "com.example.testingcustomerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519538573283-fao583cgoe5mqcgedtfqsurpto1b3nuj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testingcustomerapp",
+            "certificate_hash": "101be02238c5ab0dcb07a8538960131bbd311301"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG94q1L7641EOKMp1hXm_3TYG9SyLNE4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519538573283-f8frhest0a0ak9f0a6glsdnu3cc8g59p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

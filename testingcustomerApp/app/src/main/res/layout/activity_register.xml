@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/g"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient"
+    android:foregroundGravity="center_vertical|center|center_horizontal"
+    android:orientation="vertical"
+    tools:context=".Register">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="172dp"
+        android:contentDescription="@string/deeba_logo"
+        app:srcCompat="@drawable/finallogo" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="40dp"
+        android:paddingRight="40dp">
+
+        <EditText
+            android:id="@+id/NameReg"
+            android:layout_width="match_parent"
+            android:layout_height="42dp"
+            android:layout_marginBottom="10dp"
+            android:background="@android:color/background_light"
+            android:ems="10"
+            android:hint="Name"
+            android:inputType="textEmailAddress"
+            android:paddingLeft="5dp"
+            android:textColor="#007FA3"
+            android:textColorHint="#007FA3" />
+
+        <EditText
+            android:id="@+id/EmailReg"
+            android:layout_width="match_parent"
+            android:layout_height="42dp"
+            android:layout_marginBottom="10dp"
+            android:background="@android:color/background_light"
+            android:ems="10"
+            android:hint="Email"
+            android:inputType="textPersonName"
+            android:paddingLeft="5dp"
+            android:textColor="#007FA3"
+            android:textColorHint="#007FA3" />
+
+        <EditText
+            android:id="@+id/PaswordReg"
+            android:layout_width="match_parent"
+            android:layout_height="42dp"
+            android:layout_marginBottom="10dp"
+            android:background="@android:color/background_light"
+            android:ems="10"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:paddingLeft="5dp"
+            android:textColor="#007FA3"
+            android:textColorHint="#007FA3" />
+
+        <EditText
+            android:id="@+id/CPasswordReg"
+            android:layout_width="match_parent"
+            android:layout_height="42dp"
+            android:layout_marginBottom="10dp"
+            android:background="@android:color/background_light"
+            android:ems="10"
+            android:hint="Comfirm Password"
+            android:inputType="textPassword"
+            android:paddingLeft="5dp"
+            android:textColor="#007FA3"
+            android:textColorHint="#007FA3" />
+
+        <Button
+            android:id="@+id/RegisterReg"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:layout_marginTop="10dp"
+            android:background="#002BA3"
+            android:includeFontPadding="false"
+            android:onClick="Register"
+            android:text="Register"
+            android:textColor="@android:color/background_light"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/button" />
+    </LinearLayout>
+
+</LinearLayout>
