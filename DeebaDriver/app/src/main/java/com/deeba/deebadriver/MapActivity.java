@@ -230,7 +230,8 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
                         enableStart="true";
                         // Toast.makeText(getApplicationContext(), "Start button active", Toast.LENGTH_LONG).show();
                         started="true";
-                        start();
+                        startbutton.setVisibility(View.VISIBLE);
+                        //start();
                     }}
                 if (nextStarted.equals("false")) {
                     Log.i("stopLat",startLat);
@@ -254,7 +255,8 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
                         endbutton.setVisibility(View.VISIBLE);
                         vibe.vibrate(1000);
                         setEndVisible="false";
-                        ending();
+                        endbutton.setVisibility(View.VISIBLE);
+                        //ending();
                     }
                 }
                 // currentLOc = new MarkerOptions().position(new LatLng(6.8974681,79.8586554)).title("Mardiwela");//
@@ -338,7 +340,7 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
             currentPolyline.remove();
         currentPolyline = mMap.addPolyline((PolylineOptions) values[0]);
     }
-    public void ending(){
+    public void ending(View view){
         messageId=getID();
         messages.child(messageId).child("msg").setValue( actualDriverFname+" has reached his final stop");
         messages.child(messageId).child("status").setValue( "0");
@@ -392,7 +394,7 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
         AddingToCompletedTasks();
         startActivity(afterLogin);
     }
-    public void start(){
+    public void start(View view){
         vibe.vibrate(1000);
         starttime=true;
         if (enableStart.equals("true")) {
@@ -887,8 +889,6 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
                 Log.i("queryloging1", query);
                 Log.i("updatestop", query);
                 params.put("query", query);
-
-
                 return params;
 
 //                6.87055 79.8862
