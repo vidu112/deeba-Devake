@@ -395,6 +395,7 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
         startActivity(afterLogin);
     }
     public void start(View view){
+        Log.d("MapActivity", "start: test ");
         vibe.vibrate(1000);
         starttime=true;
         if (enableStart.equals("true")) {

@@ -125,17 +125,16 @@
         <Button
             android:id="@+id/start"
             android:layout_width="0dp"
-            android:layout_height="0dp"
+            android:layout_height="50dp"
 
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:layout_marginBottom="8dp"
+            android:layout_marginBottom="76dp"
             android:background="#B6B1B0"
             android:onClick="start"
             android:text="start"
             android:visibility="visible"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent" />
 
         <Button
@@ -155,15 +154,15 @@
         <Button
             android:id="@+id/end"
             android:layout_width="0dp"
-            android:layout_height="0dp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
+            android:layout_height="50dp"
+            android:layout_marginBottom="70dp"
             android:background="#007fa3"
             android:onClick="ending"
             android:text="end"
             android:visibility="invisible"
             app:layout_constraintBottom_toBottomOf="@+id/next"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.48"
             app:layout_constraintStart_toStartOf="parent" />
 
         <ImageView
